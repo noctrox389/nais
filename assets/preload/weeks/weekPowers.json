@@ -1,0 +1,26 @@
+{
+	"storyName": "Jorsawsee's Jams",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"roomcode",
+			"powers",
+			[
+				115,
+				220,
+				251
+			]
+		]
+	],
+	"weekName": "Week J"
+}

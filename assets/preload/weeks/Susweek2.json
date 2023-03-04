@@ -1,0 +1,52 @@
+{
+	"storyName": "Mira Mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"green",
+		""
+	],
+	"songs": [
+		[
+			"Sussus Toogus",
+			"crewmate",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Lights Down",
+			"impostor3",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Reactor",
+			"impostor3",
+			[
+				255,
+				51,
+				51
+			]
+		],
+		[
+			"Ejected",
+			"parasite",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

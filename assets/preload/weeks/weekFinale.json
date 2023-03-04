@@ -1,0 +1,26 @@
+{
+	"storyName": "Finale",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"finale",
+		""
+	],
+	"songs": [
+		[
+			"finale",
+			"BFn",
+			[
+				255,
+				31,
+				171
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week J"
+}

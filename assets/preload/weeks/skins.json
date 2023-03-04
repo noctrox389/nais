@@ -1,0 +1,26 @@
+{
+	"storyName": "Polus Problems",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Week 0",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"red",
+		""
+	],
+	"songs": [
+		[
+			"skins",
+			"PLACEHOLDER",
+			[
+				255,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1"
+}

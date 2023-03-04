@@ -1,0 +1,107 @@
+{
+	"storyName": "Jorsawsee's Jams",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"ow",
+			"bluekill",
+			[
+				15,
+				180,
+				255
+			]
+		],
+		[
+			"who",
+			"whoguys",
+			[
+				106,
+				113,
+				255
+			]
+		],
+		[
+			"insane-streamer",
+			"jerma",
+			[
+				15,
+				220,
+				195
+			]
+		],
+		[
+			"sussus-nuzzus",
+			"nuzzles",
+			[
+				235,
+				193,
+				215
+			]
+		],
+		[
+			"idk",
+			"idk",
+			[
+				255,
+				133,
+				213
+			]
+		],
+		[
+			"esculent",
+			"dead",
+			[
+				146,
+				73,
+				60
+			]
+		],
+		[
+			"drippypop",
+			"drippy",
+			[
+				186,
+				113,
+				255
+			]
+		],
+		[
+			"crewicide",
+			"dave",
+			[
+				106,
+				73,
+				253
+			]
+		],
+		[
+			"monotone-attack",
+			"attack",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"top-10",
+			"top",
+			[
+				215,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week J"
+}

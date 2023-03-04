@@ -1,0 +1,44 @@
+{
+	"storyName": "Deadly Delusion",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Chippin",
+			"cvp",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"Chipping",
+			"cvp",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"Torture",
+			"ziffy",
+			[
+				255,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 6"
+}

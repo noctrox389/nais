@@ -1,0 +1,35 @@
+{
+	"storyName": "Vs. Impostor V1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Alpha Moogus",
+			"oldpostor",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Actin Sus",
+			"oldpostor",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Week"
+}

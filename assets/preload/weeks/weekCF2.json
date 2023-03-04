@@ -1,0 +1,26 @@
+{
+	"storyName": "Jorsawsee's Jams",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"compromised-persona",
+			"monotone",
+			[
+				75,
+				51,
+				91
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"monotone",
+		""
+	],
+	"weekName": "Week J"
+}

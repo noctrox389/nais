@@ -1,0 +1,62 @@
+{
+	"storyName": "Jorsawsee's Jams",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"jam",
+		""
+	],
+	"songs": [
+		[
+			"Lotowncorry",
+			"jorsawsee",
+			[
+				75,
+				160,
+				255
+			]
+		],
+		[
+			"O2",
+			"o2",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Voting Time",
+			"votingtime",
+			[
+				115,
+				40,
+				171
+			]
+		],
+		[
+			"Turbulence",
+			"redmungus",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Victory",
+			"warchief",
+			[
+				115,
+				40,
+				171
+			]
+		]
+	],
+	"weekName": "Week J"
+}

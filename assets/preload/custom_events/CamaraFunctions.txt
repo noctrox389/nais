@@ -1,0 +1,10 @@
+Value 1: Modo de Uso en minusculas (flash, shake, fade, zoom y target)
+
+Camara = camGame/camHUD/camOther
+
+Value 2(instrucciones para cada Modo):
+Flash: Camara, Duracion
+Shake: Camara, Intensidad, Duracion
+Fade: Camara, Alpha, Duracion
+Zoom: Zoom, Duracion
+Target: (bf/dad/gf/off)

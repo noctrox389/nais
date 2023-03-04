@@ -1,0 +1,98 @@
+{
+	"storyName": "Vs. Impostor V1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Skinny-nuts",
+			"skinnynuts",
+			[
+				255,
+				20,
+				100
+			]
+		],
+		[
+			"Skinny-nuts-2",
+			"skinnynuts",
+			[
+				255,
+				20,
+				100
+			]
+		],
+		[
+			"Monochrome",
+			"dead",
+			[
+				186,
+				193,
+				193
+			]
+		],
+		[
+			"Double-Trouble",
+			"dt",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"posussium",
+			"bananungus",
+			[
+				255,
+				195,
+				60
+			]
+		],
+		[
+			"Stealth",
+			"maroon",
+			[
+				106,
+				33,
+				53
+			]
+		],
+		[
+			"kyubism",
+			"kyubi",
+			[
+				126,
+				33,
+				255
+			]
+		],
+		[
+			"triple-trouble",
+			"tt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"infikiller",
+			"infi",
+			[
+				206,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Week"
+}
